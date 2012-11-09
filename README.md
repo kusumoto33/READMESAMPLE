@@ -9,7 +9,7 @@ opSamplePlugin概要
 ![SS](http://p.pne.jp/it/?w=200&h=150)
 ![SS](http://p.pne.jp/it/?w=200&h=150)
 ![SS](http://p.pne.jp/it/?w=200&h=150)
-![SS](http://p.pne.jp/it/?w=200&h=150)
+![SS](http://cloud.github.com/downloads/kusumoto33/READMESAMPLE/image.jpeg)
 
  
 インストール方法
